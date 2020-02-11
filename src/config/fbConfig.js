@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDWAf9_ZjK9ToRq9fBvTlQ0kxExcgRDDrs",
-  authDomain: "sheq-quiz.firebaseapp.com",
-  databaseURL: "https://sheq-quiz.firebaseio.com",
-  projectId: "sheq-quiz",
-  storageBucket: "sheq-quiz.appspot.com",
-  messagingSenderId: "861038532584",
-  appId: "1:861038532584:web:ea58da435fe9d4db0bf65d"
+  apiKey: "AIzaSyDmiosGn09ocE6P0GSoPASBi9SRP3RmDjs",
+  authDomain: "cyber-57a75.firebaseapp.com",
+  databaseURL: "https://cyber-57a75.firebaseio.com",
+  projectId: "cyber-57a75",
+  storageBucket: "cyber-57a75.appspot.com",
+  messagingSenderId: "968330125972",
+  appId: "1:968330125972:web:51a0ba6f9afbd627288a81"
 };
 
 export default firebaseConfig;
