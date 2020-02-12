@@ -1,4 +1,34 @@
+# Queez app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Queez is a , multiplayer quiz app which is played in groups. The winning team is decided based on the average score of the group. Ideal for a organization to check and refresh knowledge on areas like company policies, new regulations etc.
+
+### Tech
+
+Queez uses a number of open source projects to work properly:
+
+* [ReactJs](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [firestore](https://firebase.google.com/products/firestore/) -  NoSQL document database that lets you easily store, sync, and query data
+* [React Router](https://reacttraining.com/react-router/) - A collection of navigational components
+* [Material-ui](https://material-ui.com/) - Material design 
+
+### Installation
+
+```sh
+$ clone https://github.com/thinkaloud-lk/queez 
+$ npm install
+$ yarn start
+```
+
+### Todos
+
+ - Write Tests
+ - Implement multi quiz
+ - Mobile responsiveness
+ - Admin panel to make teams, and quizes
+ - Manage user auth
+ - Fix timer restetting when the page is refreshed
+
 
 ## Available Scripts
 
