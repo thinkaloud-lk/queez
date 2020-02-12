@@ -16,8 +16,9 @@ Queez uses a number of open source projects to work properly:
 
 ```sh
 $ clone https://github.com/thinkaloud-lk/queez 
+$ cd  queez
 $ npm install
-$ yarn start
+$ npm start
 ```
 
 ### Todos
